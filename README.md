@@ -34,7 +34,7 @@ below table shows the countries that i would recommend to visit
 
 ---
 
-### pithy qoutes
+### pithy quotes
 
  > "People say, ‘How you stay looking so young?’ I say, well, good lighting, good doctors, and good makeup." - *Dolly Parton*
 
