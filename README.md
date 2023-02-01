@@ -7,10 +7,12 @@ I like **basket ball** because by playing basket ball it helps to **improve** **
 
 ### creating a ordered list and unordered list
 ### basket ball
+## Ordered list
 1. kevin durant
 2. stephen curry
 3. nikola jokic
 
+## Unordered list
 * jayson
 * luca
 * james
