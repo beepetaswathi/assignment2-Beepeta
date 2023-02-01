@@ -31,3 +31,13 @@ below table shows the countries that i would recommend to visit
 | France | paris to see eiffel tower | 10 |
 
 ---
+
+---
+
+### pithy qoutes
+
+ > "People say, ‘How you stay looking so young?’ I say, well, good lighting, good doctors, and good makeup." - *Dolly Parton*
+
+  > "Age is something that doesn't matter unless you are a cheese." - *Luis Buñuel*
+
+  ---
