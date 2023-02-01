@@ -41,3 +41,21 @@ below table shows the countries that i would recommend to visit
   > "Age is something that doesn't matter unless you are a cheese." - *Luis Buñuel*
 
   ---
+
+  ---
+
+  ---
+
+  ### code fencing
+  # > How to use Flexbox?
+
+  Quick link <https://stackoverflow.com/questions/44623821/how-to-use-flexbox>
+
+```
+.container {
+  display: flex; /* or inline-flex */
+}
+```
+Quick link for the code above <https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-background>
+  
+  
