@@ -17,4 +17,16 @@ I like **basket ball** because by playing basket ball it helps to **improve** **
 * luca
 * james
 
-[added aboutme link](AboutMe.md)
+[added link](AboutMe.md)
+
+---
+
+###creating a table of four countries to visit
+below table shows the countries that i would recommend to visit
+| --------- | ------ | ------ |
+| India | It is famous for food and historical places | 30 |
+| Japan | They are good in innovations and rapid development | 20 |
+| USA | excellent studies and site seeing places are more | 60 |
+| France | paris to see eiffel tower | 10 |
+
+---
