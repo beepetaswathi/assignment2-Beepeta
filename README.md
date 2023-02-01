@@ -21,8 +21,9 @@ I like **basket ball** because by playing basket ball it helps to **improve** **
 
 ---
 
-###creating a table of four countries to visit
+### creating a table of four countries to visit
 below table shows the countries that i would recommend to visit
+| country | reason to visit | days |
 | --------- | ------ | ------ |
 | India | It is famous for food and historical places | 30 |
 | Japan | They are good in innovations and rapid development | 20 |
